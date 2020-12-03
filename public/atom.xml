@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hexo-Ran</title>
+  
+  
+  <link href="https://www.ranas.cn/atom.xml" rel="self"/>
+  
+  <link href="https://www.ranas.cn/"/>
+  <updated>2020-12-03T14:29:08.332Z</updated>
+  <id>https://www.ranas.cn/</id>
+  
+  <author>
+    <name>Ran</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.ranas.cn/hello-world.html"/>
+    <id>https://www.ranas.cn/hello-world.html</id>
+    <published>2020-12-03T14:29:23.699Z</published>
+    <updated>2020-12-03T14:29:08.332Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎使用hexo-ran整合包，能够看到这篇文章说明您成功的部署了本博客</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎使用hexo-ran整合包，能够看到这篇文章说明您成功的部署了本博客&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

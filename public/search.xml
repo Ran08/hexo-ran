@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/hello-world.html</url>
+    <content><![CDATA[<p>欢迎使用hexo-ran整合包，能够看到这篇文章说明您成功的部署了本博客</p>
+]]></content>
+  </entry>
+</search>
