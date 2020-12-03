@@ -15,7 +15,6 @@ menu:
   - 分类 || /categories/ || fas fa-folder-open
   留言板: /messageboard/ || fa-fw fas fa-comment-dots
   友情链接: /link/ || fa-fw fas fa-link
-  WordPress站点: https://w.ranas.cn || fa-fw fas fa-cubes
   关于: /about/ || fas fa-heart
 
 # 在移动侧边栏中隐藏子菜单项
