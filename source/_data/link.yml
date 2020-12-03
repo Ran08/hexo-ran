@@ -1,0 +1,27 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: Hexo
+      link: https://www.ranas.cn/
+      avatar: https://www.ranas.cn/img/tx.jpg
+      descr: 整合包作者
+    - name: JerryC
+      link: https://jerryc.me/
+      avatar: https://jerryc.me/image/avatar.png
+      descr: 主题作者
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、簡單且強大的網誌框架
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: bilibil
+      link: https://www.bilibili.com/
+      avatar: https://static.hdslb.com/images/akari.jpg
+      descr: 视频网站
+    - name: Weibo
+      link: https://www.weibo.com/
+      avatar: https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png
+      descr: 国内最大社交分享平台
