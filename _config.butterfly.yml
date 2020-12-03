@@ -288,8 +288,8 @@ gitalk:
 # https://valine.js.org
 valine:
   enable: true
-  appId: O3AJFzNUHIrvFvl5SKatWYG8-9Nh9j0Va
-  appKey: 7N67EgVW766JcafR8k2CLwwF
+  appId:
+  appKey:
   pageSize: 10 # comment list page size
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
   lang: zh-CN # i18n: zh-CN/zh-TW/en/ja
@@ -613,7 +613,7 @@ aside:
   position: right # left or right
   card_author:
     enable: true
-    description: An ordinary web page based on hexo, but ordinary does not mean simple.
+    description: 个人简介
     button:
       icon: fab fa-email
       text: 我的邮箱
@@ -622,7 +622,7 @@ aside:
       
   card_announcement:
     enable: true
-    content: 欢迎来到Ranas，这是一个个人博客网页，如有问题可以联系我询问。
+    content: 这是您的公告
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
